@@ -1,0 +1,9 @@
+[[gmmlib]]
+arch = "x86_64"
+git-tree-sha1 = "1f40b0339fed28c5bfe799d8dc1234a358876ace"
+libc = "glibc"
+os = "linux"
+
+    [[gmmlib.download]]
+    sha256 = "9491d501c165fad2eedf33e305d3356fc8bc351e007366eed051a2b641bee521"
+    url = "https://github.com/michel2323/gmmlib_jll.jl/releases/download/gmmlib-v22.3.0+0/gmmlib.v22.3.0.x86_64-linux-gnu.tar.gz"
